@@ -21,7 +21,7 @@ function Footer() {
 
       <div>
         <h1 className="pb-7">Sign up for Special Offers!</h1>
-        <div className="bg-white px-40  flex justify-end text-end rounded-3xl">
+        <div className="bg-white lg:pl-40  flex justify-end text-end rounded-3xl">
           <div className="text-black text-end bg-[#FF6057]  justify-self-end h-full p-3 px-7 rounded-3xl">
             Subscribe
           </div>
