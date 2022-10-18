@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className="bg-[#333333] text-white py-6 px-10 lg:px-72   xl:px-80   2xl:px-96 flex flex-col justify-center items-center lg:flex-row gap-20  text-center ">
       <div className=" flex flex-col items-center gap-10">
-        <img src="./imgs/stdy.png" alt="" />{" "}
+        <img src="./imgs/Stdy.png" alt="" />{" "}
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget
           diam at mi sollicitudin
